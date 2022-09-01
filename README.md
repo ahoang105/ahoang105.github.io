@@ -1,5 +1,6 @@
 1. **Data Set**
 - **Dataset name:** Google Research’s Open Covid-19 Data 
+- **Online Access:** https://github.com/google-research/open-covid-19-data
 - **Type:** Time series data for Covid-19. 
 - **Variables:** 
     - This dataset includes variables such as cases, death, tests, hospitalization, discharges, intensive care unit cases, government interventions, and Google’s community Mobility Reports and Search Trends symptoms dataset which is aggregated in different locations including cities and counties. 
