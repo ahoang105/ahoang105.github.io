@@ -4,6 +4,7 @@
 - **Type:** Time series data for Covid-19. 
 - **Variables:** 
     - This dataset includes variables such as cases, death, tests, hospitalization, discharges, intensive care unit cases, government interventions, and Google’s community Mobility Reports and Search Trends symptoms dataset which is aggregated in different locations including cities and counties. 
+    
 - **Potential application and values:**
     - This is a well-organized dataset so that all variables are defined and aggregated. Thus, we don’t have to spend a lot of time collecting and cleaning the dataset. 
 In addition, including locations helps us to form useful knowledge about what is going on with the Covid situation in different locations. 
